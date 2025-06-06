@@ -1,3 +1,5 @@
+https://catalog.us-east-1.prod.workshops.aws/workshops/33f099a6-45a2-47d7-9e3c-a23a6568821e/ja-JP
+
 <div align="center">
   <div>
     <a href="https://strandsagents.com">
@@ -45,6 +47,10 @@ The examples in this repository are for **demonstration and educational purposes
   - [Step 3: Build Your First Strands Agent](#step-3-build-your-first-strands-agent)
   - [Step 4: Getting Started with the SDK](#step-4-getting-started-with-the-sdk)
   - [Step 5: Explore More Samples](#step-5-explore-more-samples)
+- [Contributing ❤️](#contributing-️)
+- [License](#license)
+- [Security](#security)
+- [⚠️ Preview Status](#️-preview-status)
 
 ## 🏁 Getting Started
 
@@ -104,6 +110,7 @@ Check out more examples in the [02-samples](./02-samples/) folder for real-world
 ## Contributing ❤️
 
 We welcome contributions! See our [Contributing Guide](CONTRIBUTING.md) for details on:
+
 - Reporting bugs & features
 - Development setup
 - Contributing via Pull Requests
@@ -121,5 +128,6 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 ## ⚠️ Preview Status
 
 Strands Agents is currently in public preview. During this period:
+
 - APIs may change as we refine the SDK
 - We welcome feedback and contributions
